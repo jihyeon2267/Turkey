@@ -1,3 +1,3 @@
 # Turkey
-Test
-[README.md](https://github.com/user-attachments/files/19441603/README.md)
+- HTML, CSS를 사용한 반응형 웹사이트
+- 1080px, 768px에서 반응
